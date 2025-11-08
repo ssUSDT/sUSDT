@@ -1,0 +1,18 @@
+{
+  "name": "sUSDT Token List",
+  "timestamp": "2025-11-08T00:00:00Z",
+  "version": { "major": 1, "minor": 0, "patch": 0 },
+  "logoURI": "https://raw.githubusercontent.com/ssUSDT/sUSDT/main/sUSDT-256x256.png",
+  "keywords": ["susdt","sUSDT","usdt","bsc"],
+  "tokens": [
+    {
+      "chainId": 56,
+      "address": "0x2B7668110cE609B96C9fc227E47718875006f84b",
+      "name": "sUSDT",
+      "symbol": "sUSDT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ssUSDT/sUSDT/main/sUSDT-256x256.png",
+      "tags": ["stable","synthetic"]
+    }
+  ]
+}
