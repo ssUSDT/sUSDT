@@ -1,0 +1,11 @@
+{
+  "name": "Synthetic USDT",
+  "symbol": "sUSDT",
+  "type": "BEP20",
+  "decimals": 18,
+  "website": "https://susdt.io",
+  "description": "Synthetic USDT stable token on BNB Smart Chain",
+  "explorer": "https://bscscan.com/token/0x2B7668110cE609B96C9fc227E47718875006f84b",
+  "status": "active",
+  "id": "0x2B7668110cE609B96C9fc227E47718875006f84b"
+}
